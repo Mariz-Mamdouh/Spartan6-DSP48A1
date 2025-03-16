@@ -1,0 +1,22 @@
+{D:/Digital Design Diploma/Project1/DSP_pipeline.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Design Diploma/Project1/DSP_pipeline.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP_pipeline
+
+Top level modules:
+	DSP_pipeline
+
+} {} {}} {D:/Digital Design Diploma/Project1/DSP48A1.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Design Diploma/Project1/DSP48A1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP48A1
+
+Top level modules:
+	DSP48A1
+
+} {} {}} {D:/Digital Design Diploma/Project1/DSP48A1_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Design Diploma/Project1/DSP48A1_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP48A1_tb
+
+Top level modules:
+	DSP48A1_tb
+
+} {} {}}
