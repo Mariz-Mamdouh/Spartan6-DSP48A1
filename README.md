@@ -8,3 +8,4 @@ The Spartan-6 FPGA series by Xilinx is designed for a wide range of applications
 - Pipelining and Bypass Options: Enables high-speed data processing with options for pipelining or bypassing stages, depending on the application requirements.
 - Low Power Consumption: Optimized for power efficiency, making it suitable for battery-operated and low-power designs.
 - Configurable Input and Output Registers: Flexible configuration options to support different operational modes and data paths.
+![image](https://github.com/user-attachments/assets/b7c7ae8e-0e4f-441c-a5b0-67dd9aca2d35)
